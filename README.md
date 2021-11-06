@@ -1,14 +1,14 @@
 <body>
-<h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
+<h1 align="center">Welcome</h1>
 <br>
 <div align="center">
-<img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
+<img src="https://giphy.com/gifs/swaps4-l6tDL3jzbqUTrXifZH">
 </div>
 <br>
 <div>
 <h2 align="center">About me (~˘▾˘)~</h2>
 <li>
-<b>Name:</b> Nguyen Vu</li>
+<b>Name:</b> Khải Hoàn</li>
 <li>
 <b>Loves:</b> games, coding, anime
 </li>
