@@ -34,4 +34,8 @@
 ---
 
 <h2 align="center">Thanks For Reading </h2>
-<img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" align="center">
+
+<h2 align="center">Thanks For Reading </h2>
+<div align="center">
+<img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif">
+</div>
