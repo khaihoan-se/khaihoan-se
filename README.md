@@ -6,14 +6,11 @@
 </div>
 <br>
 <div>
-<h2 align="center">About me (~˘▾˘)~</h2>
+<h2 align="center">About me</h2>
 <li>
 <b>Name:</b> Khải Hoàn</li>
 <li>
 <b>Loves:</b> games, coding, anime
-</li>
-<li>
-<b>Sex:</b> Maie 
 </li>
 <li>
 <b>Hobbies:</b> Web/Mobile Development.
@@ -21,7 +18,7 @@
 <br>
 
 <div>
-<img src="https://media2.giphy.com/media/7hW7hXXri33NK/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/yUubtUTeFBHin9kDff/giphy.gif" align="right">
 <h2 align="center">Knowledge ᕦ(ò_óˇ)ᕤ</h2>
 <p>
 </div>
@@ -36,7 +33,7 @@
 </div>
 <br>
 <div>
-<h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
+<h2 align="center">Thanks for reading</h2>
 <div align="center">
 <img src="https://media.giphy.com/media/rPQaG7o8uqMzS/giphy.gif">
 </div>
