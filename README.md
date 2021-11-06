@@ -2,7 +2,7 @@
 <h1 align="center">Welcome</h1>
 <br>
 <div align="center">
-<img src="https://giphy.com/gifs/swaps4-l6tDL3jzbqUTrXifZH">
+<img src="https://media.giphy.com/media/l6tDL3jzbqUTrXifZH/giphy.gif">
 </div>
 <br>
 <div>
