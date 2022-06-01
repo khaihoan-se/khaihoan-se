@@ -1,4 +1,4 @@
-<!-- # **Welcome to my Github page.**
+# **Welcome to my Github page.**
 
 ### _About Me_
 
@@ -37,4 +37,4 @@
 <div align="center">
 <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif">
 </div>
- -->
+
