@@ -6,3 +6,5 @@
 https://akame.vercel.app/
 
 https://khaihoan-webdeveloper.herokuapp.com/
+
+https://genshin-hoyoverse.vercel.app/
